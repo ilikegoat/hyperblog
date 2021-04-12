@@ -1,0 +1,3 @@
+Me llamo Cristhian Pérez.
+Estoy estudiando Git.
+Nací en Bogotá.
