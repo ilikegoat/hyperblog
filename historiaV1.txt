@@ -3,3 +3,4 @@ Estoy estudiando Git.
 Actualmente estoy viviendo en Gachetá.
 Nací en Bogotá.
 Vivo en Gachetá
+Ya aprende lo básico de git.
