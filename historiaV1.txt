@@ -1,6 +1,5 @@
 Me llamo Cristhian Andrés Pérez Cortés.
-Estoy estudiando Git.
 Actualmente estoy viviendo en Gachetá.
 Nací en Bogotá.
 Vivo en Gachetá
-Ya aprende lo básico de git.
+Ya aprendio lo básico de git.
